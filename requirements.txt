@@ -1,0 +1,13 @@
+click~=7.1.2
+pyjwt~=2.6.0
+mergedeep
+flatten_json
+
+orjson~=3.8.3
+pytest~=7.1.2
+asyncio~=3.4.3
+requests~=2.27.1
+aiohttp~=3.8.1
+
+# fhir.resources
+https://github.com/bmeg/fhir.resources/archive/feature/backref.zip
